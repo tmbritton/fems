@@ -1,6 +1,6 @@
-# FEM (Front End Masters) Tutorial Series 
+# FEMs (Front End Masters) Tutorial Series 
 
-The FEMS Tutorial Series is a sequence of progressively more complex layouts that we will build in HTML/CSS. We'll start easy and ramp up into solving difficult problems. Feedback will be based around code reviewing pull requests, so we'll learn Git along the way as well.
+The FEMs Tutorial Series is a sequence of progressively more complex layouts that we will build in HTML/CSS. We'll start easy and ramp up into solving difficult problems. Feedback will be based around code reviewing pull requests, so we'll learn Git along the way as well.
 
 ## Exercise 1: Duplicate Google's layout.
 
