@@ -43,6 +43,6 @@ Feel free to over-engineer your build tools as much as you want, but keep in min
 
 ### Useful Resources
 
-- [Mozilla Developer Network (MDN)](https://developer.mozilla.org): authoriatative source for info
+- [Mozilla Developer Network (MDN)](https://developer.mozilla.org): authoritative source for info
 - [CSS Tricks](https://css-tricks.com/): very helpful articles on specific techniques
 - [W3Schools Hider](https://chrome.google.com/webstore/detail/w3schools-hider/igiahejkpbnbnekdaefddmdceocmjpll?hl=en-US): Chrome extension to hide w3schools.com from search results. Seriously, when you're Googling for answers click on the links to MDN instead.
