@@ -25,7 +25,7 @@ Google is known not only for their search wizardry. Their sparse design is a tra
 1. An image editor, like Photoshop, or something cheaper like [Pixelmator](http://www.pixelmator.com/ "Pixelmator"), or something free like [GIMP](http://gimp.org "GNU Image Manipulation Program").
 2. A text editor like Github's [Atom](https://atom.io/), Adobe's [Brackets](http://brackets.io/), [Sublime Text](http://www.sublimetext.com/), or [Notepad++](http://notepad-plus-plus.org/).
 3. Git, either using the command line (like a boss), or using [one of these GUIs](http://git-scm.com/downloads/guis).
-4. A [GitHub](https://github.com) account.
+4. A [GitHub](https://github.com/join) account.
 
 ### What you can use
 
