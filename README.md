@@ -2,7 +2,7 @@
 
 The FEMS Tutorial Series is a sequence of progressively more complex layouts that we will build in HTML/CSS. We'll start easy and ramp up into solving difficult problems. Feedback will be based around code reviewing pull requests, so we'll learn Git along the way as well.
 
-## Module 1: Duplicate Google's layout.
+## Exercise 1: Duplicate Google's layout.
 
 ![Google Home Page](./assets/google-homepage.png "Google Home Page")
 
