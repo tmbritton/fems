@@ -34,6 +34,8 @@ Google is known not only for their search wizardry. Their sparse design is a tra
 3. Build tools like [Grunt](http://gruntjs.com/) or [Gulp](http://gulpjs.com/).
 4. A CSS reset like [reset.css](http://meyerweb.com/eric/tools/css/reset/) or [normalize.css](http://necolas.github.io/normalize.css/)
 
+Feel free to over-engineer your build tools as much as you want, but keep in mind that the browser speaks HTML, CSS, and Javascript. Pre-processors like SASS and LESS might fall out of favor and build tools like Grunt and Gulp are very flavor-of-the-week.
+
 ### What you can't use
 
 1. A drag & drop editor like Dreamweaver or FrontPage. 
