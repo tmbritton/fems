@@ -38,3 +38,8 @@ Google is known not only for their search wizardry. Their sparse design is a tra
 1. A drag & drop editor like Dreamweaver or FrontPage. 
 2. A front-end framework like [Bootstrap](http://getbootstrap.com/) or [Zurb Foundation](http://foundation.zurb.com/). Let's walk before we run.
 
+### Useful Resources
+
+- [Mozilla Developer Network (MDN)](https://developer.mozilla.org): authoriatative source for info
+- [CSS Tricks](https://css-tricks.com/): very helpful articles on specific techniques
+- [W3Schools Hider](https://chrome.google.com/webstore/detail/w3schools-hider/igiahejkpbnbnekdaefddmdceocmjpll?hl=en-US): Chrome extension to hide w3schools.com from search results. Seriously, when you're Googling for answers click on the links to MDN instead.
