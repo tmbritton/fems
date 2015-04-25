@@ -49,6 +49,7 @@ Feel free to over-engineer your build tools as much as you want, but keep in min
 - [CSS Tricks](https://css-tricks.com/): very helpful articles on specific techniques
 - [Can I Use...](http://caniuse.com/): See what browsers support the HTML/CSS/Javascript you want to use
 - [Modern.ie](https://www.modern.ie/): Check your work on all those pesky versions of Internet Explorer
+- [SMACSS](https://smacss.com/): A method to keep your CSS clean and organized
 
 #### Scripts / Libraries
 
