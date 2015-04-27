@@ -1,8 +1,10 @@
-# Exercise 1: Duplicate Google's layout.
+# Exercise 2: Duplicate Twitter layout.
 
-![Google Home Page](./assets/exercise1/google-homepage.png "Google Home Page")
+![Twitter Home Page](./assets/exercise1/twitter-layout.png "Twitter Home Page")
 
-Google is known not only for their search wizardry. Their sparse design is a trademark of their products as well. This makes duplicating their homepage a great starting point for our series.
+This Twitter home page layout is fairly standard 2-column layout. If you view it on a browser, it's a responsive layout, but we're going to build it from the screenshot as a 2-column fix-width layout. 
+
+*More instructions to come*
 
 ## What to do
 
@@ -34,5 +36,5 @@ Feel free to over-engineer your build tools as much as you want, but keep in min
 
 ## What you can't use
 
-1. A drag & drop editor like Dreamweaver or FrontPage.
+1. A drag & drop editor like Dreamweaver or FrontPage. 
 2. A front-end framework like [Bootstrap](http://getbootstrap.com/) or [Zurb Foundation](http://foundation.zurb.com/). Let's walk before we run.

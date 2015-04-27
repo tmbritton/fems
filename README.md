@@ -5,7 +5,7 @@ The FEMs Tutorial Series is a sequence of progressively more complex layouts tha
 ## Exercises
 
 1. [Exercise 1: Duplicate Google's Layout](./exercise1.md)
-2. 2-column fix-width layout
+2. [Exercise 2: Duplicate Twitter Layout](./exercise2.md)
 3. 2-column fluid width layout
 4. 3-column fluid layout
 5. reponsive layout
