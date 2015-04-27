@@ -1,6 +1,6 @@
 # Exercise 2: Duplicate Twitter layout.
 
-![Twitter Home Page](./assets/exercise1/twitter-layout.png "Twitter Home Page")
+![Twitter Home Page](./assets/exercise2/twitter-layout.png "Twitter Home Page")
 
 This Twitter home page layout is fairly standard 2-column layout. If you view it on a browser, it's a responsive layout, but we're going to build it from the screenshot as a 2-column fix-width layout. 
 
