@@ -15,7 +15,8 @@ The FEMs Tutorial Series is a sequence of progressively more complex layouts tha
 ### Websites
 
 - [Mozilla Developer Network (MDN)](https://developer.mozilla.org): authoritative source for info
-- [CSS Tricks](https://css-tricks.com/): very helpful articles on specific techniques
+- [HTML5 Rocks](http://www.html5rocks.com/en/): very helpful blog post about new HTML5/JS/CSS capabilities
+- [CSS Tricks](https://css-tricks.com/): very helpful articles on specific CSS techniques
 - [Can I Use...](http://caniuse.com/): See what browsers support the HTML/CSS/Javascript you want to use
 - [Modern.ie](https://www.modern.ie/): Check your work on all those pesky versions of Internet Explorer
 - [SMACSS](https://smacss.com/): A method to keep your CSS clean and organized
