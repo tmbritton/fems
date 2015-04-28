@@ -6,7 +6,7 @@ Google is known not only for their search wizardry. Their sparse design is a tra
 
 ## What to do
 
-1. Fork this repository, create index.html and css files. When you have something to show create a pull request back to this repository master branch and we'll review the code in the pull request diff.
+1. Fork this repository and create a branch named exercise1. Create your index.html and css files and do your work in this branch. When you have something to show create a pull request from your fork's exercise1 branch back to the tmbritton/fems repository master branch and we'll review the code in the pull request diff.
 2. Focus on clean code, semantic HTML, separation of content from presentation, and browser compatibility. 
 3. The layout is provided as a .png in the assets folder. Open this in your image editor and use it to measure margins, pick colors, and everything else you need to do to build a website from a layout.
 
